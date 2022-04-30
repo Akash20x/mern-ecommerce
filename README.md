@@ -40,6 +40,13 @@
 * Admin check total sales, orders and products
 * Check and update order status of different users 
 
+## Website Interface
+
+<img src="https://user-images.githubusercontent.com/46225357/166116665-ad98df2a-870d-43d4-acc6-ddf741b8b508.png" height="600" />
+
+
+
+
 # 📚 Technology Stack
 
 ## Frontend
