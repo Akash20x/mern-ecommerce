@@ -18,6 +18,7 @@
 #### Deployed in: https://akash-ecommerce-store.netlify.app/
 #### Admin Dashboard: https://ecommerce-admindashboard.netlify.app/
 
+#### Watch Project Preview Video: https://drive.google.com/file/d/1Q-wxMutkhlna88goiyx-RMDpVCQhUotE/view?usp=sharing
 
 ### 🏆 Specifications
 
