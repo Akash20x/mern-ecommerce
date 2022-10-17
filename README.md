@@ -1,12 +1,6 @@
 <div align="center">
   
 # Ecommerce Mern
-  <p align="center">
-      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Akash20x/mern-ecommerce">
-      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Akash20x/mern-ecommerce">
-      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Akash20x/mern-ecommerce">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Akash20x/mern-ecommerce">
-    </p>
 </div>
 
 
